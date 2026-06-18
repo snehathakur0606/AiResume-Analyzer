@@ -1,0 +1,4 @@
+flask
+pyPDF2
+scikit-learn
+pandas
